@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MEXC PAY</string>
+    <string name="sample_data_banner_title">SAMPLE DATA &amp; SANDBOX ENVIRONMENT</string>
+    <string name="sample_data_banner_desc">Orders, UPI IDs, and wallet balances shown are clearly labeled sample data. Wallet balances are never credited automatically from UTR submission without verified backend payment records.</string>
+    <string name="splash_tagline">Institutional-Grade INR OTC Settlement &amp; Liquidity Desk</string>
+    <string name="login_title">Welcome to MEXC PAY</string>
+    <string name="login_subtitle">Sign in to access INR OTC desks, admin-issued liquidity orders, and verified settlement tracking.</string>
+    <string name="signup_title">Create OTC Account</string>
+    <string name="signup_subtitle">Register for authorized INR liquidity order participation and UTR reconciliation.</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_label">Password</string>
+    <string name="full_name_label">Full Legal Name</string>
+    <string name="phone_label">Mobile Number (+91)</string>
+    <string name="sign_in_button">Sign In to Desk</string>
+    <string name="sign_up_button">Create Account</string>
+    <string name="demo_quick_login">Continue with Sample Sandbox Account</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_orders">Active Orders</string>
+    <string name="nav_wallet">Wallet</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_support">Support</string>
+    <string name="buy_inr_title">BUY INR</string>
+    <string name="sell_inr_title">SELL INR</string>
+    <string name="wallet_balance_label">Verified Available Balance</string>
+    <string name="locked_escrow_label">Pending Backend Verification</string>
+    <string name="utr_security_notice">Submitting a UTR records your claim as PENDING_BACKEND_VERIFICATION. Balances are never credited from client-side input alone.</string>
+</resources>
